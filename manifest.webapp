@@ -1,0 +1,29 @@
+{ 
+    "version": "1.0", 
+    "name": "Dattamagazine", 
+    "description": "App para mascotas pérdidas", 
+    "launch_path": "/index.html", 
+    "icons": { 
+        "16": "/image/dm-icon.png", 
+        "48": "/image/dm-icon.png", 
+        "128": "/image/dm-icon.png" 
+    }, 
+    "developer": { 
+        "name": "Victor Sánchez Salinas Victor Rubiel Cruz Ortiz Netzahualcóyotl López López", 
+        "url": "" 
+    }, 
+    "installs_allowed_from": ["*"], 
+    "locales": { 
+        "en": { 
+            "description": "App para mascotas pérdidas", 
+            "developer": { 
+                "name": "Victor Sánchez Salinas Victor Rubiel Cruz Ortiz Netzahualcóyotl López López", 
+                "url": "" 
+            } 
+        } 
+    }, 
+    "default_locale": "es", 
+    "permissions": {      
+    }, 
+    "fullscreen": "true" 
+}
