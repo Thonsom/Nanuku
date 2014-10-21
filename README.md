@@ -6,8 +6,8 @@ Web-App Extravio de mascotas para la Fundación Mujeres Ambientalistas #Hackaton
 Team Nanuku
 ==
 Leader& programing project - Netza López 
-=
-Analyst-AnVictor Sánchez Salinas
-=
+
+Analyst-Victor Sánchez Salinas
+
 Analyst-Victor Rubiel Cruz Ortiz 
 
